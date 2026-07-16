@@ -72,3 +72,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Binaries/
+Build/
+Builds/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.pdb
+
+*codex*
+*Codex*
