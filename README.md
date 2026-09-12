@@ -23,6 +23,22 @@ The main C++ system is the Premium Garage Controller. It coordinates the active 
 
 A runtime UI widget provides the controls used by the presentation.
 
+```text
+Premium Garage Controller
+├── Scene state
+├── Model selection
+├── Camera control
+├── Material control
+├── Transitions
+└── Orbital view
+
+Runtime UI
+├── Selection controls
+├── Camera controls
+├── Color controls
+└── Information panel
+```
+
 ## Status
 
 Functional interactive visualization prototype.
