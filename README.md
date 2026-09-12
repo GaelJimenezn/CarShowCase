@@ -39,6 +39,15 @@ Runtime UI
 └── Information panel
 ```
 
+## Source
+
+```text
+Source/Car_Showcase/
+├── PremiumGarageController.h
+├── PremiumGarageController.cpp
+└── Car_Showcase.Build.cs
+```
+
 ## Status
 
 Functional interactive visualization prototype.
