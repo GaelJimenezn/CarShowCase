@@ -48,6 +48,10 @@ Source/Car_Showcase/
 └── Car_Showcase.Build.cs
 ```
 
+## Running
+
+Requires Unreal Engine 5.7. Open `Car_Showcase.uproject`, build the project, and run the main showroom map.
+
 ## Status
 
 Functional interactive visualization prototype.
