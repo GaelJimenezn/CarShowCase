@@ -6,6 +6,17 @@ Built with C++ and UMG/Slate.
 
 The project is a showroom prototype for real-time 3D presentation.
 
+## Features
+
+- Model selection
+- Inspection camera presets
+- Orbital inspection mode
+- Runtime color customization
+- Material reset
+- Showroom color controls
+- Runtime UI controls
+- Scene transitions
+
 ## Implementation
 
 The main C++ system is the Premium Garage Controller. It coordinates the active scene, cameras, materials, transitions, and showroom state.
